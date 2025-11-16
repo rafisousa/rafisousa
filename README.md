@@ -1,11 +1,10 @@
 # 👨🏽‍💻 Rafael Machado
 
-**`Desenvolvedor`**
+**`Estudante`**
 
 Olá a todos,
 
-Meu nome é Rafael de Sousa Machado, tenho 22 anos e sou natural de São Paulo. Atualmente estou cursando Engenharia de Software na Universidade São Francisco (USF).
-
+Meu nome é Rafael de Sousa Machado, tenho 22 anos e sou natural de São Paulo.
 Tenho grande interesse por tecnologia e pela criação de soluções que façam a diferença. Estou sempre buscando aprender, evoluir e me aprofundar cada vez mais no mundo do desenvolvimento.
 
 ## 🔗 Conecte-se comigo
