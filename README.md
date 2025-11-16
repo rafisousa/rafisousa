@@ -4,10 +4,9 @@
 
 Olá a todos,
 
-Me chamo Rafael de Sousa Machado, tenho 22 anos sou de São Paulo, atualmente estou cursando Engenharia de Sofware na USF (Universidade de São Francisco). 
+Meu nome é Rafael de Sousa Machado, tenho 22 anos e sou natural de São Paulo. Atualmente estou cursando Engenharia de Software na Universidade São Francisco (USF).
 
-Sou apaixonado por tecnologia, mais sobre mim através do meu Linkedin "[Rafael Machado](https://www.linkedin.com/in/rafaelsousamachado/)".
-
+Tenho grande interesse por tecnologia e pela criação de soluções que façam a diferença. Estou sempre buscando aprender, evoluir e me aprofundar cada vez mais no mundo do desenvolvimento.
 
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaelsousamachado/)
