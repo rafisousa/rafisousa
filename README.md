@@ -2,7 +2,7 @@
 
 **`Estudante`**
 
-Olá a todos,
+👋 Olá a todos,
 
 Meu nome é Rafael de Sousa Machado, tenho 22 anos e sou natural de São Paulo.
 Tenho grande interesse por tecnologia e pela criação de soluções que façam a diferença. Estou sempre buscando aprender, evoluir e me aprofundar cada vez mais no mundo do desenvolvimento.
