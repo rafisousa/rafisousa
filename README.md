@@ -4,7 +4,7 @@
 
 👋 Olá a todos,
 
-Meu nome é Rafael de Sousa Machado, tenho 22 anos, tenho grande interesse por tecnologia e pela criação de soluções que façam a diferença. Estou sempre buscando aprender, evoluir e me aprofundar cada vez mais no mundo da programação.
+Estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de soluções eficientes, sempre buscando evoluir, aprender novas tecnologias e transformar ideias em código.
 
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaelsousamachado/)
