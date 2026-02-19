@@ -2,9 +2,9 @@
 
 **`Estudante`**
 
-👋 Olá a todos,
+👋 Olá, Mundo!🌐
 
-Estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de soluções eficientes, sempre buscando evoluir, aprender novas tecnologias e transformar ideias em código.
+Apaixonado por resolver problemas complexos por meio da tecnologia. Gosto de desafios e estou sempre aprimorando minhas habilidades através de novos projetos e aprendizado contínuo. Tenho 22 anos e atualmente curso Engenharia de Software pela USF. Busco constantemente evoluir, explorar novas tecnologias e transformar ideias em soluções reais por meio do código. 
 
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaelsousamachado/)
