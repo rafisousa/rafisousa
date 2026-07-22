@@ -4,7 +4,7 @@
 
 👋 Olá, Mundo!🌐
 
-Apaixonado por resolver problemas por meio da tecnologia, gosto de desafios e estou sempre aprimorando minhas habilidades através de novos projetos e aprendizado contínuo. Tenho 22 anos e atualmente curso Engenharia de Software pela USF, busco constantemente evoluir e transformar ideias em soluções reais.
+Apaixonado por resolver problemas por meio da tecnologia, gosto de desafios e estou sempre aprimorando minhas habilidades através de novos projetos e aprendizado contínuo. Atualmente curso Engenharia de Software pela USF, busco constantemente evoluir e transformar ideias em soluções reais.
 
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaelsousamachado/)
