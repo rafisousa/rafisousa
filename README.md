@@ -2,7 +2,7 @@
 
 **`Estudante`**
 
-👋 Olá, Muito prazer!🌐
+👋 Olá! É um prazer receber você! Seja bem-vindo(a)!🌐
 
 Apaixonado por resolver problemas por meio da tecnologia, gosto de desafios e estou sempre aprimorando minhas habilidades através de novos projetos e aprendizado contínuo. Atualmente curso Engenharia de Software pela USF, busco constantemente evoluir e transformar ideias em soluções reais.
 
