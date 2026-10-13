@@ -1,17 +1,15 @@
-# 👨🏽‍💻 Rafael Machado
+# 👨🏽‍💻 Hello, my name is Rafael Machado!
 
 **`Estudante`**
 
-👋 Olá! É um prazer receber você! Seja bem-vindo(a)!🌐
-
-Apaixonado por resolver problemas por meio da tecnologia, gosto de desafios e estou sempre aprimorando minhas habilidades através de novos projetos e aprendizado contínuo. Atualmente curso Engenharia de Software pela USF, busco constantemente evoluir e transformar ideias em soluções reais.
+Software Engineering student at USF focused on **Software Development, Data Analytics, and Artificial Intelligence**.
 
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaelsousamachado/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU_ID)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaell.sousa.machado@gmail.com)
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Skills
 <img 
     align="left" 
     alt="HTML"
@@ -43,3 +41,5 @@ Apaixonado por resolver problemas por meio da tecnologia, gosto de desafios e es
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+### 🔗 Skills
